@@ -1,0 +1,6 @@
+اكتب برنامج لقراء ة النص وتشفيره وفك تشفير ه
+المدخلات : Saeed
+المخرجات :
+Text Before Encryption : Saeed
+Text After Encryption : Ucggf
+Text After Decryption : Saeed

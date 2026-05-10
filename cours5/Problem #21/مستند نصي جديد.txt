@@ -1,0 +1,7 @@
+اكتب برنامجا لقراءة عدد المفاتيح المراد إنشاؤها وطباعتها على الشاشة
+المخرجات :
+Kay [1] : SDEK-TZCN-BUPN-TZUV
+Kay [2] : OAFY-DNFT-KBKL-VZYR
+Kay [3] : JSRL-PLMG-YWNV-CGDR
+Kay [4] : ROTC-TKZG-XASN-BYPQ
+Kay [5] : GGYB-DVHN-LZPJ-OTPF

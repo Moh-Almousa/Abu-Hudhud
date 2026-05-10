@@ -1,0 +1,5 @@
+اكتب برنامج يقرأ رقم ، ثم يطبع تكرار كل رقم
+المدخلات : 1223222
+المخرجات : Digit 1 Frequency is 1 Time(s).
+Digit 2 Frequency is 5 Time(s).
+Digit 3 Frequency is 1 Time(s).

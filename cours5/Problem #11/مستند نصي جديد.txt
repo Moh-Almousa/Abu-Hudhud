@@ -1,0 +1,4 @@
+اكتب ب رنامج لقراءة رقم ومعرفة ما إذا كان الرقم يقرأ من اليمين الى اليسار والعكس ؟
+المدخلات : 1234 \ 12321
+المخرجات : No , it is NOT a Palindrome number
+Yes , it is a Palindrome number

@@ -1,0 +1,11 @@
+اكتب برنامجا لقراءة عدد المفاتيح المراد إنشاؤها وتعبئتها في مصفوفة ث م طباعتها على الشاشة
+المدخلات :
+How many keys do you want to generate ?
+5
+المخرجات :
+Array elements :
+Array [0] : MKJM-ZEKN-QJDK-CQOP
+Array [1] : PQDV-XRGW-QXNW-LWJA
+Array [2] : EQKK-CIDQ-XOJE-BHJH
+Array [3] : XATF-XPNG-CJMC-PISC
+Array [4] : DHXG-DISJ-YXUE-NJLL

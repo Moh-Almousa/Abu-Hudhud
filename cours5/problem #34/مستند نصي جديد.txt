@@ -1,0 +1,18 @@
+اكتب برنامجا لملء مصفوفة بحجم أقصى 100 ، بأرقام عشوائية من 1 الى 100 ، واقرأ رقم
+وأعد موقعه ) index ( ، وإذا وجد خلاف ذلك أعد - 1
+المدخلات :
+Enter number of elements :
+5
+المخرجات :
+Array 1 Elements :
+33 9 55 42 82
+Please enter a number to search for?
+42
+Number you are looking for is : 42
+The number found at position : 3
+The number found its order : 4
+أو
+Please enter a number to search for?
+3
+Number you are looking for is : 3
+The number is not found :-(

@@ -1,0 +1,8 @@
+اكتب برنامجا لملء مصفوفتين بحجم أقصى 100 ، بأرقام عشوائية من 1 الى 100 وجمع
+عناصرها في مصفوفة ثالث ة وطباعته ا
+المدخلات :
+Enter number of elements : 5
+المخرجات :
+Array 1 Elements : 12 34 67 97 56
+Array 2 Elements : 56 87 34 98 8
+Sum of array 1 and array 2 elements : 68 121 101 195 64

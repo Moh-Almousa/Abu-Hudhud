@@ -1,0 +1,7 @@
+اكتب برنامجا لملء المصفوفة بأرقام مرتبة من 1 الى الرقم، ثم اطبعها ، ثم قم بخلط هذه
+المصفوفة وطباعتها بعد خلطها
+المدخلات :
+Enter number of elements : 5
+المخرجات :
+Array elements before shuffle:: 1 2 3 4 5
+Array elements after shuffle:: 3 2 5 1 4

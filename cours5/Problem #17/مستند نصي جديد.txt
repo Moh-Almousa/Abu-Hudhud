@@ -1,0 +1,11 @@
+اكتب برنامج لتخمين كلمة المرور ، مكونة من 3 أحرف )كلها كبيرة(
+المدخلات : AAF
+المخرجات :
+Trial [1] : AAA
+Trial [2] : AAB
+Trial [3] : AAC
+Trial [4] : AAD
+Trial [5] : AAE
+Trial [6] : AAF
+Password is : AAF
+Found after 6 Trial(s)
