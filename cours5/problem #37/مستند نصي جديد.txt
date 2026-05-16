@@ -1,0 +1,10 @@
+اكتب برنامجا لملء مصفوفة بحجم أقصى 100 ، بأرقام عشوائية من 1 الى 100 ، وانسخها
+الى مصفوفة أخرى باستخدام AddArrayElement ثم اطبعها
+المدخلات :
+Enter number of elements :
+5
+المخرجات :
+Array 1 Elements :
+82 37 50 62 25
+Array 2 Elements after copy :
+82 37 50 62 25
