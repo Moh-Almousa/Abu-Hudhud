@@ -15,7 +15,7 @@
 *.userprefs
 # Mono auto generated files
 mono_crash.*
-
+Stone-Paper-Scissors-game/
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
