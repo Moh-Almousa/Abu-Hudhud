@@ -18,8 +18,7 @@ int RandomNumber(int From, int To) {
 
 void FillArrayWithRandomNumbers(int arr[100], int arrLength)
 {
-    //cout << "Enter Size Arry : ";
-    //cin >> arrLength;
+
     for (int i = 0; i < arrLength; i++)
     {
         arr[i] = RandomNumber(1, 100);
